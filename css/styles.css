@@ -1,0 +1,110 @@
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+/**
+  |============================
+  | Header section
+  |============================
+*/
+.header {
+}
+.heder-nav {
+}
+.logo {
+}
+.header-list {
+}
+.header-item {
+}
+.header-item-link {
+}
+.header-adress {
+}
+.header-adress-list {
+}
+.header-adress-item {
+}
+.header-adress-mail {
+}
+.header-adress-phone {
+}
+/**
+  |============================
+  | Footer section
+  |============================
+*/
+.footer {
+}
+.footer-text {
+}
+/**
+  |============================
+  | Herro section
+  |============================
+*/
+.herro {
+}
+.herro-title {
+}
+.herro-button {
+}
+/**
+  |============================
+  | Feature section
+  |============================
+*/
+.feature {
+}
+.feature-list {
+}
+.feature-item {
+}
+.feature-text {
+}
+.feature-title {
+}
+/**
+  |============================
+  | About section
+  |============================
+*/
+.about {
+}
+.about-title {
+}
+.about-list {
+}
+.about-item {
+}
+.about-img {
+}
+/**
+  |============================
+  | Team section
+  |============================
+*/
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-item {
+}
+.team-item-img {
+}
+.team-item-title {
+}
+.team-item-text {
+}
