@@ -1,3 +1,17 @@
+:root {
+}
+body {
+}
+ul {
+}
+/**
+  |============================
+  | Base styles
+  |============================
+*/
+
+.link {
+}
 .visually-hidden {
   position: absolute;
   width: 1px;
